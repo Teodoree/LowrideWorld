@@ -642,7 +642,7 @@ section {
 
   .humburger {
     width: 30px;
-    position: absolute;
+    position: fixed;
     top: 30px;
     left: 5%;
     height: 14px;
@@ -673,7 +673,6 @@ section {
     display: flex;
     flex-direction: column;
     top: 0px;
-    border-radius: 10px;
     left: 0px;
     align-items: center;
     justify-content: center;
@@ -739,7 +738,7 @@ section {
 
   .humburger {
     width: 30px;
-    position: absolute;
+    position: fixed;
     top: 30px;
     left: 5%;
     height: 14px;
@@ -770,7 +769,6 @@ section {
     display: flex;
     flex-direction: column;
     top: 0px;
-    border-radius: 10px;
     left: 0px;
     align-items: center;
     justify-content: center;
